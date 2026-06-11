@@ -28,7 +28,7 @@ export Bench2Drive_ROOT="$HOME/pad_workspace/Bench2Drive"
 ```bash
 bash download/download_maps.sh
 bash download/download_navtrain.sh
-bash download/download_navtest.sh
+bash download/download_test.sh
 ```
 Put the downloaded maps in "dataset/maps", and dataset in "dataset/navsim_logs" and "dataset/sensor_blobs" 
 
